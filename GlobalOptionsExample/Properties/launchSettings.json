@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "GlobalOptionsExample": {
+      "commandName": "Project",
+      "commandLineArgs": "list arg1 package --verbosity 3"
+    }
+  }
+}
